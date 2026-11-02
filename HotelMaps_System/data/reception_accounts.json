@@ -1,0 +1,442 @@
+[
+    {
+        "hotel_id": "motel-astrotel-cubao",
+        "title": "Astrotel Cubao",
+        "city": "Quezon City",
+        "category": "sogo",
+        "email": "desk.motelastrotelcubao@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "airbnb-azure",
+        "title": "Azure Urban Beach Resort Stay",
+        "city": "Entertainment City",
+        "category": "airbnb",
+        "email": "desk.airbnbazure@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "resort-canyon-cove",
+        "title": "Canyon Cove Hotel & Spa Batangas",
+        "city": "Nasugbu Batangas",
+        "category": "resort",
+        "email": "desk.resortcanyoncove@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "hotel-clark-marriott",
+        "title": "Clark Marriott Hotel",
+        "city": "Clark Pampanga",
+        "category": "hotel",
+        "email": "desk.hotelclarkmarriott@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "hotel-conrad",
+        "title": "Conrad Manila",
+        "city": "Pasay & Manila Bay",
+        "category": "hotel",
+        "email": "desk.hotelconrad@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "hotel-courtyard-marriott-iloilo",
+        "title": "Courtyard by Marriott Iloilo",
+        "city": "Iloilo City",
+        "category": "hotel",
+        "email": "desk.hotelcourtyardmarriottiloilo@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "hotel-crimson-mactan",
+        "title": "Crimson Resort & Spa",
+        "city": "Cebu & Mactan",
+        "category": "resort",
+        "email": "desk.hotelcrimsonmactan@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "resort-discovery-boracay",
+        "title": "Discovery Shores Boracay",
+        "city": "Boracay Island",
+        "category": "resort",
+        "email": "desk.resortdiscoveryboracay@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "hotel-dusit-davao",
+        "title": "Dusit Thani Residence Davao",
+        "city": "Davao City",
+        "category": "hotel",
+        "email": "desk.hoteldusitdavao@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "hotel-shangrila-edsa",
+        "title": "Edsa Shangri-La, Manila",
+        "city": "Ortigas Center",
+        "category": "hotel",
+        "email": "desk.hotelshangrilaedsa@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "resort-elnido-lagen",
+        "title": "El Nido Resorts Lagen Island",
+        "city": "El Nido Palawan",
+        "category": "resort",
+        "email": "desk.resortelnidolagen@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "motel-eurotel-pedro-gil",
+        "title": "Eurotel Pedro Gil",
+        "city": "Historic Manila",
+        "category": "sogo",
+        "email": "desk.moteleurotelpedrogil@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "hotel-fairfield-marriott-cebu",
+        "title": "Fairfield by Marriott Cebu Mandaue City",
+        "city": "Cebu City",
+        "category": "hotel",
+        "email": "desk.hotelfairfieldmarriottcebu@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "airbnb-gramercy",
+        "title": "Gramercy Skyline Studio",
+        "city": "Makati CBD",
+        "category": "airbnb",
+        "email": "desk.airbnbgramercy@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "hotel-grand-hyatt",
+        "title": "Grand Hyatt Manila",
+        "city": "BGC Taguig",
+        "category": "hotel",
+        "email": "desk.hotelgrandhyatt@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "hotel-holiday-inn-batangas",
+        "title": "Holiday Inn & Suites Batangas LimaPark",
+        "city": "Batangas",
+        "category": "hotel",
+        "email": "desk.hotelholidayinnbatangas@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "hotel-holiday-inn-makati",
+        "title": "Holiday Inn & Suites Makati",
+        "city": "Makati CBD",
+        "category": "hotel",
+        "email": "desk.hotelholidayinnmakati@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "hotel-holiday-inn-cebu",
+        "title": "Holiday Inn Cebu City",
+        "city": "Cebu City",
+        "category": "hotel",
+        "email": "desk.hotelholidayinncebu@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "hotel-holiday-inn-express-newport",
+        "title": "Holiday Inn Express Manila Newport City",
+        "city": "Pasay & Manila Bay",
+        "category": "hotel",
+        "email": "desk.hotelholidayinnexpressnewport@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "hotel-holiday-inn-galleria",
+        "title": "Holiday Inn Manila Galleria",
+        "city": "Ortigas Center",
+        "category": "hotel",
+        "email": "desk.hotelholidayinngalleria@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "sogo-alabang-south",
+        "title": "Hotel Sogo - Alabang",
+        "city": "Alabang Muntinlupa",
+        "category": "sogo",
+        "email": "desk.sogoalabangsouth@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "sogo-manila-avenida",
+        "title": "Hotel Sogo - Avenida",
+        "city": "Historic Manila",
+        "category": "sogo",
+        "email": "desk.sogomanilaavenida@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "sogo-baguio",
+        "title": "Hotel Sogo - Baguio",
+        "city": "Baguio City",
+        "category": "sogo",
+        "email": "desk.sogobaguio@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "sogo-qc-balintawak",
+        "title": "Hotel Sogo - Balintawak",
+        "city": "Quezon City",
+        "category": "sogo",
+        "email": "desk.sogoqcbalintawak@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "sogo-cdo-recto",
+        "title": "Hotel Sogo - Cagayan de Oro",
+        "city": "Cagayan de Oro",
+        "category": "sogo",
+        "email": "desk.sogocdorecto@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "sogo-cebu-sanciangko",
+        "title": "Hotel Sogo - Cebu",
+        "city": "Cebu City",
+        "category": "sogo",
+        "email": "desk.sogocebusanciangko@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "sogo-cubao-aurora",
+        "title": "Hotel Sogo - Cubao",
+        "city": "Cubao Quezon City",
+        "category": "sogo",
+        "email": "desk.sogocubaoaurora@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "sogo-davao-castillo",
+        "title": "Hotel Sogo - Davao",
+        "city": "Davao City",
+        "category": "sogo",
+        "email": "desk.sogodavaocastillo@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "sogo-qc-fairview",
+        "title": "Hotel Sogo - Fairview",
+        "city": "Novaliches QC",
+        "category": "sogo",
+        "email": "desk.sogoqcfairview@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "sogo-makati-guadalupe",
+        "title": "Hotel Sogo - Makati",
+        "city": "Makati CBD",
+        "category": "sogo",
+        "email": "desk.sogomakatiguadalupe@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "sogo-manila-malate",
+        "title": "Hotel Sogo - Malate",
+        "city": "Historic Manila",
+        "category": "sogo",
+        "email": "desk.sogomanilamalate@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "sogo-bicol-naga",
+        "title": "Hotel Sogo - Naga City",
+        "city": "Naga City Bicol",
+        "category": "sogo",
+        "email": "desk.sogobicolnaga@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "sogo-pampanga-sanfernando",
+        "title": "Hotel Sogo - Pampanga",
+        "city": "San Fernando Pampanga",
+        "category": "sogo",
+        "email": "desk.sogopampangasanfernando@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "sogo-pasay-rotonda",
+        "title": "Hotel Sogo - Pasay",
+        "city": "Pasay City",
+        "category": "sogo",
+        "email": "desk.sogopasayrotonda@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "sogo-qc-avenue",
+        "title": "Hotel Sogo - Quezon Avenue",
+        "city": "Quezon City",
+        "category": "sogo",
+        "email": "desk.sogoqcavenue@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "hotel-shangrila-makati",
+        "title": "Makati Shangri-La, Manila",
+        "city": "Makati CBD",
+        "category": "hotel",
+        "email": "desk.hotelshangrilamakati@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "hotel-manila-marriott",
+        "title": "Manila Marriott Hotel",
+        "city": "Pasay & Manila Bay",
+        "category": "hotel",
+        "email": "desk.hotelmanilamarriott@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "hotel-okada",
+        "title": "Okada Manila",
+        "city": "Entertainment City",
+        "category": "casino",
+        "email": "desk.hotelokada@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "hotel-pearl-farm",
+        "title": "Pearl Farm Beach Resort",
+        "city": "Samal Island (Davao)",
+        "category": "resort",
+        "email": "desk.hotelpearlfarm@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "resort-pico-sands",
+        "title": "Pico Sands Hotel",
+        "city": "Nasugbu Batangas",
+        "category": "resort",
+        "email": "desk.resortpicosands@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "resort-princesa-garden",
+        "title": "Princesa Garden Island Resort",
+        "city": "Puerto Princesa",
+        "category": "resort",
+        "email": "desk.resortprincesagarden@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "hotel-radisson-cebu",
+        "title": "Radisson Blu Cebu",
+        "city": "Cebu City",
+        "category": "hotel",
+        "email": "desk.hotelradissoncebu@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "resort-shang-boracay",
+        "title": "Shangri-La Boracay",
+        "city": "Boracay Island",
+        "category": "resort",
+        "email": "desk.resortshangboracay@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "hotel-shangrila-mactan",
+        "title": "Shangri-La Mactan, Cebu",
+        "city": "Cebu & Mactan",
+        "category": "resort",
+        "email": "desk.hotelshangrilamactan@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "hotel-shangrila-fort",
+        "title": "Shangri-La The Fort, Manila",
+        "city": "BGC Taguig",
+        "category": "hotel",
+        "email": "desk.hotelshangrilafort@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "hotel-sheraton-manila-marriott",
+        "title": "Sheraton Manila Hotel",
+        "city": "Pasay & Manila Bay",
+        "category": "hotel",
+        "email": "desk.hotelsheratonmanilamarriott@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "hotel-sofitel",
+        "title": "Sofitel Philippine Plaza Manila",
+        "city": "Pasay & Manila Bay",
+        "category": "resort",
+        "email": "desk.hotelsofitel@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "hotel-solaire",
+        "title": "Solaire Resort & Casino",
+        "city": "Entertainment City",
+        "category": "casino",
+        "email": "desk.hotelsolaire@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "hotel-solaire-north",
+        "title": "Solaire Resort North",
+        "city": "Quezon City",
+        "category": "casino",
+        "email": "desk.hotelsolairenorth@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "hotel-taal-vista",
+        "title": "Taal Vista Hotel",
+        "city": "Tagaytay",
+        "category": "hotel",
+        "email": "desk.hoteltaalvista@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "hotel-manila-hotel",
+        "title": "The Manila Hotel",
+        "city": "Historic Manila",
+        "category": "heritage",
+        "email": "desk.hotelmanilahotel@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "hotel-manor-cjh",
+        "title": "The Manor at Camp John Hay",
+        "city": "Baguio City",
+        "category": "hotel",
+        "email": "desk.hotelmanorcjh@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "hotel-peninsula",
+        "title": "The Peninsula Manila",
+        "city": "Makati CBD",
+        "category": "hotel",
+        "email": "desk.hotelpeninsula@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "airbnb-venice",
+        "title": "The Venice Romantic Suite",
+        "city": "BGC Taguig",
+        "category": "airbnb",
+        "email": "desk.airbnbvenice@stayfinder.ph",
+        "password": "reception123"
+    },
+    {
+        "hotel_id": "motel-victoria-court-qc",
+        "title": "Victoria Court - Hillcrest",
+        "city": "Quezon City",
+        "category": "sogo",
+        "email": "desk.motelvictoriacourtqc@stayfinder.ph",
+        "password": "reception123"
+    }
+]
